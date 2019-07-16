@@ -43,4 +43,4 @@ List of proxies you can get one of them here: https://mssg.me/proxy
 Application can works without proxy, but in some cases it can spent ~30 mins to found workable IP. Use proxy to reduce problems of it.
 
 ## First launch
-At first launch application asks you verification code which sends to your Telegram account. After that your session will store locally on your mashine.
+At first launch application asks you verification code which sends to your Telegram account. After that your session will store locally on your mashine. In case of your first launch takes so much time without drawing of UI try proxy.
