@@ -32,7 +32,7 @@
 Get your app credentials here:
 https://core.telegram.org/api/obtaining_api_id
 
-** USER_PHONE**: string
+**USER_PHONE**: string
 
 Your phone number to login in Telegram
 
