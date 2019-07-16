@@ -1,0 +1,9 @@
+# telegram stuff
+__tglib__
+
+# node.js stuff
+node_modules
+
+# application configs
+.env
+env.json

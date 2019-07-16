@@ -1,0 +1,21 @@
+{
+  "name": "console-tg-client",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts",
+    "debug": "node --inspect -r ts-node/register src/index.ts"
+  },
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "rxjs": "^6.5.2",
+    "tglib": "^3.0.2",
+    "ts-node": "^8.3.0",
+    "typescript": "^3.5.3"
+  },
+  "devDependencies": {
+    "@types/blessed": "^0.1.11",
+    "@types/node": "^12.6.2"
+  }
+}
