@@ -157,6 +157,9 @@ export interface IMessage {
   views: number;
   media_album_id: string;
   content: IMessageContent;
+  sending_state?: {
+    '@type': 'messageSendingStatePending'
+  };
 }
 
 type IChatType = IChatTypeSuperGroup;
